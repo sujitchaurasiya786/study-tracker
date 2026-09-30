@@ -7,3 +7,12 @@ A simple study tracker built to practice a professional Git workflow.
 This project helps track daily study progress.
 
 Status: Project initialized
+
+## Subjects
+
+- HTML
+- CSS
+- Python
+- DBMS
+
+Status: Subjects section added
